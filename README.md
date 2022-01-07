@@ -14,4 +14,10 @@ Coupon apps provide a coupons and trand a copuns
 
 ## Technology Stack
 
-- [x] 
+- [x] Developed using Kotlin 1.3.72
+- [x] MVC Design Patterns
+- [x] Data binding used.
+- [x] Retrofit 2.8.1
+- [x] Fragment navigation libarary
+- [x] Push notification
+- [x] Stripe Payment Gatway
